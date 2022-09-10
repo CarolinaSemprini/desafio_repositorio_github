@@ -885,6 +885,7 @@ display: grid;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    
 }
 
 .text-center{
